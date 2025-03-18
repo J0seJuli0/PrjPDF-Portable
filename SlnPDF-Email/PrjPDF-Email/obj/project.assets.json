@@ -4762,11 +4762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\BUCKUP\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
+      "projectUniqueName": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
       "projectName": "PrjPDF-Email",
-      "projectPath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\BUCKUP\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
+      "projectPath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
       "packagesPath": "C:\\Users\\josej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\BUCKUP\\SlnPDF-Email\\PrjPDF-Email\\obj\\",
+      "outputPath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

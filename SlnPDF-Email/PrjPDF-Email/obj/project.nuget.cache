@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wi9/KflZPxw=",
+  "dgSpecHash": "Go9nNEPyqio=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\BUCKUP\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
+  "projectFilePath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\PrjPDF-Email.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josej\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\josej\\.nuget\\packages\\docx\\1.5.0\\docx.1.5.0.nupkg.sha512",
