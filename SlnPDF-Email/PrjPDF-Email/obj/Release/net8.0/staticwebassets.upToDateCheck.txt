@@ -59,7 +59,3 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\temp\Monitoreo_#2025-03-17.pdf
-wwwroot\temp\Monitoreo_#2025-03-18.pdf
-wwwroot\temp\Monitoreo_20250317152031.pdf
-wwwroot\temp\Monitoreo_20250317152842.pdf

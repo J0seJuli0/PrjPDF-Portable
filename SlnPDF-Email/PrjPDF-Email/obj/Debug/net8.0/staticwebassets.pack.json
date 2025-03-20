@@ -249,22 +249,6 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-17.pdf",
-      "PackagePath": "staticwebassets\\temp\\Monitoreo_#2025-03-17.pdf"
-    },
-    {
-      "Id": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-18.pdf",
-      "PackagePath": "staticwebassets\\temp\\Monitoreo_#2025-03-18.pdf"
-    },
-    {
-      "Id": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152031.pdf",
-      "PackagePath": "staticwebassets\\temp\\Monitoreo_20250317152031.pdf"
-    },
-    {
-      "Id": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152842.pdf",
-      "PackagePath": "staticwebassets\\temp\\Monitoreo_20250317152842.pdf"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrjPDF-Email.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

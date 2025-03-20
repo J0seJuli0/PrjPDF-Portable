@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\josej\Documents\COMPLEXLESS\PDF\BUCKUP\SlnPDF-Email\PrjPDF-Email\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-03-18T22:06:06.8994870Z||;True|2025-03-18T17:02:50.0843189-05:00||;True|2025-03-18T17:01:58.7186330-05:00||;</History>
+    <_PublishTargetUrl>C:\PrjPDF-Portable\SlnPDF-Email\PrjPDF-Email\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-03-20T15:20:57.4086404Z||;False|2025-03-20T10:20:31.2090064-05:00||;True|2025-03-18T17:06:06.8994870-05:00||;True|2025-03-18T17:02:50.0843189-05:00||;True|2025-03-18T17:01:58.7186330-05:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

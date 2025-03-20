@@ -50,8 +50,7 @@
               "RelativeToolTip": "PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T21:41:29.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T21:41:29.851Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
               "ViewState": "AgIAAPwAAAAAAAAAAAAAABYBAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T17:29:28.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:29:28.94Z"
             },
             {
               "$type": "Document",
@@ -101,7 +99,8 @@
               "RelativeToolTip": "PrjPDF-Email\\Models\\TamboMonitoreo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:13:11.621Z"
+              "WhenOpened": "2025-03-17T17:13:11.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

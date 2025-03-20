@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/E+DfwET2/OuUSmONl4HwwPncENmOp27nXYgD2ENJzk=",
+  "Hash": "3GmgmJ87I1+wMP8mC5upB3qSvYhdgOj7z1e/1jQajq4=",
   "Source": "PrjPDF-Email",
   "BasePath": "_content/PrjPDF-Email",
   "Mode": "Default",
@@ -1338,90 +1338,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-17.pdf",
-      "SourceId": "PrjPDF-Email",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\",
-      "BasePath": "_content/PrjPDF-Email",
-      "RelativePath": "temp/Monitoreo_#2025-03-17#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kj02t1o3zr",
-      "Integrity": "QJAWAbo/XmlVrpqDlEBLaKvkfoy+Yatv9MO2mhyO2EE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\temp\\Monitoreo_#2025-03-17.pdf"
-    },
-    {
-      "Identity": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-18.pdf",
-      "SourceId": "PrjPDF-Email",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\",
-      "BasePath": "_content/PrjPDF-Email",
-      "RelativePath": "temp/Monitoreo_#2025-03-18#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "s7e0lw7j0c",
-      "Integrity": "CNMIbnRFnPiU9XVnn4Eas3x93DDCdy1o6IA2OjanojU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\temp\\Monitoreo_#2025-03-18.pdf"
-    },
-    {
-      "Identity": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152031.pdf",
-      "SourceId": "PrjPDF-Email",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\",
-      "BasePath": "_content/PrjPDF-Email",
-      "RelativePath": "temp/Monitoreo_20250317152031#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "an2c8v9yt5",
-      "Integrity": "Zox8tNraI5Qt5HwtK9LPCdpNp90se/S0B79WjFjfEZA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\temp\\Monitoreo_20250317152031.pdf"
-    },
-    {
-      "Identity": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152842.pdf",
-      "SourceId": "PrjPDF-Email",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\",
-      "BasePath": "_content/PrjPDF-Email",
-      "RelativePath": "temp/Monitoreo_20250317152842#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "t5vpjbkg6u",
-      "Integrity": "AalNAE96+g1THBT/OESCwjQngAwFum8vCndv/Z3ush0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\temp\\Monitoreo_20250317152842.pdf"
     }
   ],
   "Endpoints": [
@@ -6450,7 +6366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:00:42 GMT"
+          "Value": "Thu, 20 Mar 2025 15:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6487,7 +6403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:00:42 GMT"
+          "Value": "Thu, 20 Mar 2025 15:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6532,7 +6448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:00:42 GMT"
+          "Value": "Thu, 20 Mar 2025 15:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6577,7 +6493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:00:42 GMT"
+          "Value": "Thu, 20 Mar 2025 15:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6588,334 +6504,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-cY/BsT1inwSFEi0XWqhPEL6YbQm3Xq5/eN2rJCE71wU="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_#2025-03-17.kj02t1o3zr.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-17.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9099"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QJAWAbo/XmlVrpqDlEBLaKvkfoy+Yatv9MO2mhyO2EE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 22:52:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kj02t1o3zr"
-        },
-        {
-          "Name": "label",
-          "Value": "temp/Monitoreo_#2025-03-17.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QJAWAbo/XmlVrpqDlEBLaKvkfoy+Yatv9MO2mhyO2EE="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_#2025-03-17.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-17.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9099"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QJAWAbo/XmlVrpqDlEBLaKvkfoy+Yatv9MO2mhyO2EE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 22:52:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QJAWAbo/XmlVrpqDlEBLaKvkfoy+Yatv9MO2mhyO2EE="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_#2025-03-18.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-18.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9213"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CNMIbnRFnPiU9XVnn4Eas3x93DDCdy1o6IA2OjanojU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:04:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CNMIbnRFnPiU9XVnn4Eas3x93DDCdy1o6IA2OjanojU="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_#2025-03-18.s7e0lw7j0c.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_#2025-03-18.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9213"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CNMIbnRFnPiU9XVnn4Eas3x93DDCdy1o6IA2OjanojU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Mar 2025 21:04:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s7e0lw7j0c"
-        },
-        {
-          "Name": "label",
-          "Value": "temp/Monitoreo_#2025-03-18.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CNMIbnRFnPiU9XVnn4Eas3x93DDCdy1o6IA2OjanojU="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_20250317152031.an2c8v9yt5.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152031.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1245"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Zox8tNraI5Qt5HwtK9LPCdpNp90se/S0B79WjFjfEZA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 20:20:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "an2c8v9yt5"
-        },
-        {
-          "Name": "label",
-          "Value": "temp/Monitoreo_20250317152031.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Zox8tNraI5Qt5HwtK9LPCdpNp90se/S0B79WjFjfEZA="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_20250317152031.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152031.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1245"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Zox8tNraI5Qt5HwtK9LPCdpNp90se/S0B79WjFjfEZA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 20:20:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Zox8tNraI5Qt5HwtK9LPCdpNp90se/S0B79WjFjfEZA="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_20250317152842.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152842.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AalNAE96+g1THBT/OESCwjQngAwFum8vCndv/Z3ush0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 20:28:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AalNAE96+g1THBT/OESCwjQngAwFum8vCndv/Z3ush0="
-        }
-      ]
-    },
-    {
-      "Route": "temp/Monitoreo_20250317152842.t5vpjbkg6u.pdf",
-      "AssetFile": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\wwwroot\\temp\\Monitoreo_20250317152842.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AalNAE96+g1THBT/OESCwjQngAwFum8vCndv/Z3ush0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 20:28:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t5vpjbkg6u"
-        },
-        {
-          "Name": "label",
-          "Value": "temp/Monitoreo_20250317152842.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AalNAE96+g1THBT/OESCwjQngAwFum8vCndv/Z3ush0="
         }
       ]
     }
