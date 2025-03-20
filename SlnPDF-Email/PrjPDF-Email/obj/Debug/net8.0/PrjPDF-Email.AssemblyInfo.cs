@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrjPDF-Email")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd75e1cf678d9701ac544c9a5891336968e0a80a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c52c19ac1d202f687e7bb83b119451270699e36")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrjPDF-Email")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrjPDF-Email")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

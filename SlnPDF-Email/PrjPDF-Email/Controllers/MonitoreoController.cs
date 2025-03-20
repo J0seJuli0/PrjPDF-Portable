@@ -38,7 +38,7 @@ public class MonitoreoController : Controller
 
     private string GenerarPDF(TamboMonitoreo model)
     {
-        string uniqueFileName = $"Monitoreo_#{model.Fecha}.pdf";
+        string uniqueFileName = $"COMPLEXLESS - MONITOREO TAMBO #{model.Fecha}.pdf";
         string pdfPath = Path.Combine("wwwroot/temp", uniqueFileName);
         Directory.CreateDirectory("wwwroot/temp");
 
@@ -165,14 +165,13 @@ public class MonitoreoController : Controller
             {
                 From = new MailAddress(remitente),
                 Subject = $"COMPLEXLESS - MONITOREO TAMBO # {model.Fecha}",
-                Body = $"Estimado,\n\nAprovechamos en saludaros y a la vez compartimos el reporte de monitoreo del día {model.Fecha}.\n\nSaludos.\n\nGestion Plataforma Cloud"
+                Body = $"Estimados,\n\nAprovechamos en saludarlos y a la vez compartimos el reporte de monitoreo del día {model.Fecha}.\n\nSaludos.\n\nGestión Plataforma Cloud"
             };
 
             string[] destinatarios = model.Destinatario.Split(new char[] { ',', ';' }, StringSplitOptions.RemoveEmptyEntries);
 
             if (destinatarios.Length == 0)
             {
-                Console.WriteLine("Error: La lista de destinatarios está vacía.");
                 return false;
             }
 
@@ -191,7 +190,6 @@ public class MonitoreoController : Controller
             };
 
             smtp.Send(mensaje);
-            Console.WriteLine("Correo enviado con éxito.");
             return true;
         }
         catch (Exception ex)

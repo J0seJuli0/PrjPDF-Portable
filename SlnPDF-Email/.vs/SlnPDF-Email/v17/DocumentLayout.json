@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\",
+  "WorkspaceRootPath": "C:\\PrjPDF-Portable\\SlnPDF-Email\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\views\\monitoreo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\views\\monitoreo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\controllers\\monitoreocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\controllers\\monitoreocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\controllers\\monitoreocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\users\\josej\\documents\\complexless\\pdf\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\models\\tambomonitoreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\views\\monitoreo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\views\\monitoreo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|c:\\prjpdf-portable\\slnpdf-email\\prjpdf-email\\models\\tambomonitoreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2748FD4-B0E3-4DFC-B67A-B960B9B72BBD}|PrjPDF-Email\\PrjPDF-Email.csproj|solutionrelative:prjpdf-email\\models\\tambomonitoreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PrjPDF-Email\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -57,47 +57,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
               "RelativeDocumentMoniker": "PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
               "RelativeToolTip": "PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAABYBAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T17:29:28.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Program.cs",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Program.cs",
               "RelativeDocumentMoniker": "PrjPDF-Email\\Program.cs",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Program.cs",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Program.cs",
               "RelativeToolTip": "PrjPDF-Email\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:27:54.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:27:54.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MonitoreoController.cs",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Controllers\\MonitoreoController.cs",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Controllers\\MonitoreoController.cs",
               "RelativeDocumentMoniker": "PrjPDF-Email\\Controllers\\MonitoreoController.cs",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Controllers\\MonitoreoController.cs",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Controllers\\MonitoreoController.cs",
               "RelativeToolTip": "PrjPDF-Email\\Controllers\\MonitoreoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:14:25.093Z"
+              "WhenOpened": "2025-03-17T17:14:25.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TamboMonitoreo.cs",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Models\\TamboMonitoreo.cs",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Models\\TamboMonitoreo.cs",
               "RelativeDocumentMoniker": "PrjPDF-Email\\Models\\TamboMonitoreo.cs",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Models\\TamboMonitoreo.cs",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Models\\TamboMonitoreo.cs",
               "RelativeToolTip": "PrjPDF-Email\\Models\\TamboMonitoreo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\appsettings.json",
+              "DocumentMoniker": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\appsettings.json",
               "RelativeDocumentMoniker": "PrjPDF-Email\\appsettings.json",
-              "ToolTip": "C:\\Users\\josej\\Documents\\COMPLEXLESS\\PDF\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\appsettings.json",
+              "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\appsettings.json",
               "RelativeToolTip": "PrjPDF-Email\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
