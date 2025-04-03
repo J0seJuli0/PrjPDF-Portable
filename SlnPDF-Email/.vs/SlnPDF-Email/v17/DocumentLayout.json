@@ -60,9 +60,10 @@
               "RelativeDocumentMoniker": "PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
               "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
               "RelativeToolTip": "PrjPDF-Email\\Views\\Monitoreo\\Index.cshtml",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAAABYBAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAACUBAAAAAAAAAAAjwDgBAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T17:29:28.94Z"
+              "WhenOpened": "2025-03-17T17:29:28.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +85,7 @@
               "RelativeDocumentMoniker": "PrjPDF-Email\\Controllers\\MonitoreoController.cs",
               "ToolTip": "C:\\PrjPDF-Portable\\SlnPDF-Email\\PrjPDF-Email\\Controllers\\MonitoreoController.cs",
               "RelativeToolTip": "PrjPDF-Email\\Controllers\\MonitoreoController.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAmwMgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAA0wKEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T17:14:25.093Z",
               "EditorCaption": ""

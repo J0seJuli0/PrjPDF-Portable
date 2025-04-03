@@ -43,7 +43,6 @@
                                     <select id="destinatarios" class="form-select" required>
                                         <option value="" disabled selected>Seleccionar destinatario</option>
                                         <option value="grupo_todos">Todos los usuarios</option>
-                                        <option value="gustavo.escriba@complexless.com">Gustavo Escriba</option>
                                         <option value="jefferson.mayo@complexless.com">Jefferson Mayo</option>
                                         <option value="julio.sanchez@complexless.com">Julio Sánchez</option>
                                     </select>
@@ -60,7 +59,6 @@
                                 <select name="Responsable" class="form-select" required>
                                     <option value="" disabled selected>Seleccionar Responsable</option>
                                     <option value="Julio Sánchez">Julio Sánchez</option>
-                                    <option value="Gustavo Escriba">Gustavo Escriba</option>
                                     <option value="Jefferson Mayo">Jefferson Mayo</option>
                                 </select>
                                 <div class="invalid-feedback">Por favor seleccione un responsable</div>
@@ -319,7 +317,6 @@
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>xiomara.lopez@complexless.com</li>
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>cesar.zacari@complexless.com</li>
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>oscar.mejia@complexless.com</li>
-                            <li><i class="bi bi-envelope-fill me-2 text-primary"></i>gustavo.escriba@complexless.com</li>
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>jefferson.mayo@complexless.com</li>
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>julio.sanchez@complexless.com</li>
                         </ul>
@@ -331,7 +328,6 @@
                         <p class="mb-1">Al seleccionar un destinatario individual, el correo será enviado solo a esa persona:</p>
                         <ul class="list-unstyled ps-3">
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>Jefferson Mayo - jefferson.mayo@complexless.com</li>
-                            <li><i class="bi bi-envelope-fill me-2 text-primary"></i>Gustavo Escriba - gustavo.escriba@complexless.com</li>
                             <li><i class="bi bi-envelope-fill me-2 text-primary"></i>Julio Sánchez - julio.sanchez@complexless.com</li>
                         </ul>
                     </div>
@@ -356,9 +352,8 @@
         let emailPreview = document.getElementById('emailPreview');
 
         const emailMap = {
-            "grupo_todos": "oriana.ramirez@complexless.com, josue.chupica@complexless.com, xiomara.lopez@complexless.com, cesar.zacari@complexless.com, oscar.mejia@complexless.com, gustavo.escriba@complexless.com, jefferson.mayo@complexless.com, julio.sanchez@complexless.com",
+            "grupo_todos": "oriana.ramirez@complexless.com, josue.chupica@complexless.com, xiomara.lopez@complexless.com, cesar.zacari@complexless.com, oscar.mejia@complexless.com, jefferson.mayo@complexless.com, julio.sanchez@complexless.com",
             "jefferson.mayo@complexless.com": "jefferson.mayo@complexless.com",
-            "gustavo.escriba@complexless.com": "gustavo.escriba@complexless.com",
             "julio.sanchez@complexless.com": "julio.sanchez@complexless.com"
         };
 
